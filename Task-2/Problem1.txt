@@ -1,0 +1,27 @@
+PROBLEM-1
+
+Divisibility Test for 3
+
+PSEUDO CODE
+
+
+    Declare integer variable n
+    Get the input of variable n from the user
+
+
+    while (n is greater than zero)
+        Subtract 3 from num and assign it to num
+    
+ 
+    if (n is equal to zero) then
+	print response
+            "True"
+    
+    else
+        print response
+            "False"
+    
+
+    
+    
+     

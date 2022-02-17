@@ -1,0 +1,26 @@
+//PROBLEM-2
+
+Write pseudocode and flowchart for program that prints Nth fibonacci number. 
+(Nth Fibonacci Number denoted as F(N), F(0)=0, F(1)=1, F(2)=1, F(3)=2,…)
+
+//PSEUDO CODE
+
+main
+    
+    Declare and initialise variable first equal to 0
+    Declare and initialise variable second equal to 1
+    Declare and initialise variable fib equal to 0
+
+    Get the input of Nth number from the user
+
+    for variable i ranging from 1 to Nth number
+        Add the values of first and second and assign it to fib
+        Assign the value of second to first
+        Assign the value of fib to second
+    END for
+
+    print fib
+
+END main
+
+
