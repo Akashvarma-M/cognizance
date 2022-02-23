@@ -1,5 +1,5 @@
 # Problem 3
-import tabulate
+
 
 # creating empty list
 lt = []
