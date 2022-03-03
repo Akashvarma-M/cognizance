@@ -73,6 +73,11 @@ official website.
 
 # Preview Screenshots
  
+![ss1](https://user-images.githubusercontent.com/99648821/156601654-bd582f11-f0d7-495c-8a52-3cd23a8485d2.png)
+ 
+![ss2](https://user-images.githubusercontent.com/99648821/156601681-834e4217-ffab-447d-8635-b44685d26aad.png)
+ 
+![ss3](https://user-images.githubusercontent.com/99648821/156601716-5e84bd16-732a-4cf9-bafd-ae59108e3ea7.png)
 
 
 
